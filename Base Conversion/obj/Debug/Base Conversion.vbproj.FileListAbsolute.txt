@@ -1,0 +1,10 @@
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\bin\Debug\Base Conversion.exe.config
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\bin\Debug\Base Conversion.exe
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\bin\Debug\Base Conversion.pdb
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\bin\Debug\Base Conversion.xml
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\obj\Debug\Base Conversion.vbprojResolveAssemblyReference.cache
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\obj\Debug\Base_Conversion.Resources.resources
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\obj\Debug\Base Conversion.vbproj.GenerateResource.Cache
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\obj\Debug\Base Conversion.exe
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\obj\Debug\Base Conversion.xml
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Base Conversion\Base Conversion\obj\Debug\Base Conversion.pdb
